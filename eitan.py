@@ -1,1 +1,2 @@
-print("hello eitan")
+def print():
+  print("hello eitan")
